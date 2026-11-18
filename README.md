@@ -1,11 +1,16 @@
 # ⚡ PixelLab – Image Processing Studio
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-pixellab.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://pixellab.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Puthalapattu--75%2FPixelLab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Puthalapattu-75/PixelLab)
+
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/frontend-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![OpenCV](https://img.shields.io/badge/CV-OpenCV-5C3EE8.svg)](https://opencv.org/)
 [![Pillow](https://img.shields.io/badge/library-Pillow-yellowgreen.svg)](https://python-pillow.org/)
 [![Tests](https://img.shields.io/badge/tests-25%20passed-brightgreen.svg)]()
 
+> 🚀 **Live Studio**: **[https://pixellab.streamlit.app/](https://pixellab.streamlit.app/)**
+>
 > A modern, desktop-grade web application for digital image processing, computer vision enhancements, format conversions, compression analytics, and interactive visual analysis. Designed with a clean, dark-themed UI inspired by Linear and Raycast.
 
 ---
