@@ -1,0 +1,3 @@
+"""
+PixelLab test suite package.
+"""
